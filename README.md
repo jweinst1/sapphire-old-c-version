@@ -1,2 +1,3 @@
-# libsapphire
-A C library that manages sapphire(Knowledge Object Format) files and data.
+# sapphire
+
+*A comprehensive library to model financial and investment markets* 
