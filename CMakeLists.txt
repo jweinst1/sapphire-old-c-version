@@ -3,6 +3,8 @@ cmake_minimum_required(VERSION 3.5)
 project(sapphire)
 
 # Sets the prefix for installations
+# Change this if you want a different
+# installation path
 set(CMAKE_INSTALL_PREFIX /usr/local)
 
 add_subdirectory(build)
@@ -17,4 +19,4 @@ if(SAPPHIRE_WITH_TESTING)
 endif()
 
 add_subdirectory(utils)
-add_subdirectory(core)
+add_subdirectory(src)
