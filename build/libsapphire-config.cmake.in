@@ -1,6 +1,0 @@
-###############################
-# Config File for libsapphire  #
-###############################
-
-set(libsapphire_INCLUDE_DIRS ${CMAKE_INSTALL_PREFIX}/include/@LIBSAPPHIRE_NAMED_VERSION@)
-set(libsapphire_LIBRARIES ${CMAKE_INSTALL_PREFIX}/lib/@LIBSAPPHIRE_NAMED_VERSION@/libsapphire.a)

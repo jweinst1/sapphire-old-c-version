@@ -1,5 +1,5 @@
 ###############################
-# Versioning File for libsapphire  #
+# Versioning File for sapphire  #
 ###############################
 
 set(PACKAGE_VERSION @LIBSAPPHIRE_MAJOR_VERSION@.@LIBSAPPHIRE_MINOR_VERSION@)
